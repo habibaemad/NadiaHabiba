@@ -1,0 +1,19 @@
+body{color :rgb (65,75,86);
+  font-family: arial;
+  margin: 0px;
+}
+
+h1,h2{
+        text-align: center;
+
+}
+
+li.difff{ color: rgb (251,182,209);
+}
+li:hover{font-size:1.2em
+
+}
+
+img-circle { border-radius: 50% 
+
+}
