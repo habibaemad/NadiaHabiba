@@ -1,0 +1,25 @@
+body{
+}
+
+div.component{ background-color:rgb(128, 128, 128);
+margin:0 auto;
+min-width: :5px;
+}
+
+
+div.container{ background-color:rgb(225, 173, 1);
+margin:0 auto;
+min-width: :120px;
+}
+tr#tn{ font-family: times;
+  font-weight: bold;
+
+}
+table, th, td {
+  border: 1px solid black;
+}
+table#table1 {
+    width:70%;
+    margin-left:15%;
+    margin-right:15%;
+  }

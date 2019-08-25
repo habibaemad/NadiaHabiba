@@ -1,0 +1,62 @@
+body{color :rgb (65,75,86);
+  font-family: arial;
+  margin: 0px;
+}
+color: rgb(255, 237, 81);
+font-family: times;
+margin: 200px;
+}
+
+h1 {
+text-align: center;
+}
+H1#H1{font-family: times;
+  font-size:60px;
+
+}
+
+li.difff{ color: rgb(251, 182, 209);
+
+}
+
+li:hover{ font-size:1.2em;
+transition:0.6s ease;
+
+}
+
+img.round { border-radius: 50%
+
+}
+
+p#second {
+text-align: center;
+}
+
+p#third {
+text-align: right;
+}
+
+
+h1,h2{
+        text-align: center;
+
+}
+div.component{ background-color:rgb(128, 128, 128);
+margin:0 auto;
+min-width: :5px;
+}
+
+div.container{ background-color:rgb(225, 173, 1);
+margin:0 auto;
+min-width: :120px;
+}
+
+li.difff{ color: rgb (251,182,209);
+}
+li:hover{font-size:1.2em
+
+}
+
+img-circle { border-radius: 50%
+
+}
